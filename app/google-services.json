@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "525639539836",
+    "firebase_url": "https://fir-f76ed.firebaseio.com",
+    "project_id": "fir-f76ed",
+    "storage_bucket": "fir-f76ed.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:525639539836:android:78163ea378e9cb5f",
+        "android_client_info": {
+          "package_name": "com.fonantrix.demo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "525639539836-hjsoktu9187ro153u1l46e8v8s3f1qoc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.fonantrix.demo",
+            "certificate_hash": "12FA846D18DF39634EA86648FB78E53464571023"
+          }
+        },
+        {
+          "client_id": "525639539836-09n2vp21tobf0mfr6v4tf8kdsbuh77sg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBoBUFb7bnGe3o3AzL53IQOFaA-135Da0o"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "525639539836-09n2vp21tobf0mfr6v4tf8kdsbuh77sg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
